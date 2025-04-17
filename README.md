@@ -4,6 +4,8 @@ This is a quick-and-dirty web app that summarizes how the risks identified by a 
 
 We hope this gives you a useful jumping-off point for your own projects using LlamaExtract!
 
+![screenshot of the app](./screenshot.png)
+
 ## Setup
 
 You'll need a few values in your `.env.local` file to get this working:
@@ -32,3 +34,8 @@ The web app has only a handful of API routes:
 * `/api/result` fetches the results of the extraction once ready
 * `/api/summarize` takes multiple years of risks and summarizes them, then returns the summary as HTML
 
+## Resources
+
+* [LlamaExtract docs](https://docs.cloud.llamaindex.ai/llamaextract/getting_started)
+* [More LlamaExtract code examples](https://github.com/run-llama/llama_cloud_services/tree/main/examples/extract)
+* [About LlamaCloud](https://www.llamaindex.ai/enterprise)
