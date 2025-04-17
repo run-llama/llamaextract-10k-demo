@@ -1,6 +1,6 @@
 # 10K multi-year Risk Summarizer
 
-This is a quick-and-dirty web app that summarizes how the risks identified by a corporation in its annual 10K filings have changed over time. It use [LlamaExtract](https://docs.cloud.llamaindex.ai/llamaextract/getting_started), part of [LlamaCloud](https://cloud.llamaindex.ai/), and of the course the LlamaIndex framework. It expects to work on 10K filings; you can find [Apple's 10K filings for many years](https://investor.apple.com/sec-filings/default.aspx) on their investor relations site.
+This is a quick-and-dirty all-JavaScriptweb app that summarizes how the risks identified by a corporation in its annual 10K filings have changed over time. It use [LlamaExtract](https://docs.cloud.llamaindex.ai/llamaextract/getting_started), part of [LlamaCloud](https://cloud.llamaindex.ai/), and of the course the LlamaIndex framework. It expects to work on 10K filings; you can find [Apple's 10K filings for many years](https://investor.apple.com/sec-filings/default.aspx) on their investor relations site.
 
 We hope this gives you a useful jumping-off point for your own projects using LlamaExtract!
 
